@@ -1,0 +1,34 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 6,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "user": 3,
+    "contact": 21
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {
+      "bAVqZECKKbV4I6DaxtQRoOArMIBb9HztPTRl0o1TqdvpbUinVJLLkoHrcuNnD19k": "{\"id\":\"bAVqZECKKbV4I6DaxtQRoOArMIBb9HztPTRl0o1TqdvpbUinVJLLkoHrcuNnD19k\",\"ttl\":1209600,\"created\":\"2016-05-16T23:08:58.041Z\",\"userId\":1}",
+      "i0WBPYijTZtd2F3AxQMxyCL0KTR5gi0AMuEd9Qm6ltas9GXMyI4XZ3dNF1gXdmKI": "{\"id\":\"i0WBPYijTZtd2F3AxQMxyCL0KTR5gi0AMuEd9Qm6ltas9GXMyI4XZ3dNF1gXdmKI\",\"ttl\":1209600,\"created\":\"2016-05-16T23:24:54.456Z\",\"userId\":1}",
+      "vlue9AV6WJZQyU93TuaqW7RWsF1XdLamUTImFdbt1LEB1a99Vf8jk2irHd6Nzzaw": "{\"id\":\"vlue9AV6WJZQyU93TuaqW7RWsF1XdLamUTImFdbt1LEB1a99Vf8jk2irHd6Nzzaw\",\"ttl\":1209600,\"created\":\"2016-05-16T23:26:37.526Z\",\"userId\":1}",
+      "msByv6zuj3SRe2HW0T9NC1436kfMc42596rv5YfCiWUisyuArsds5cIzz3jqKs0a": "{\"id\":\"msByv6zuj3SRe2HW0T9NC1436kfMc42596rv5YfCiWUisyuArsds5cIzz3jqKs0a\",\"ttl\":1209600,\"created\":\"2016-05-17T05:47:22.162Z\",\"userId\":1}",
+      "xEKziQckATYVfjDHQPkXhL1y6YvSYPSflaA2C8UIsNJEc9oxRIbwAw15Con0m5u2": "{\"id\":\"xEKziQckATYVfjDHQPkXhL1y6YvSYPSflaA2C8UIsNJEc9oxRIbwAw15Con0m5u2\",\"ttl\":1209600,\"created\":\"2016-05-17T05:58:47.775Z\",\"userId\":1}"
+    },
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "user": {
+      "1": "{\"password\":\"$2a$10$PqEebCU2UY1arsPGzLVBx.js/Y4RrHr980JD1liOUv8P5rbGpCxt6\",\"email\":\"user1@test.com\",\"id\":1}",
+      "2": "{\"password\":\"$2a$10$DCD4ZBesyqnJj6N9NMBnrOEkymexi4pTaKLdgS1pY/cyOIWm7bK7.\",\"email\":\"user2@test.com\",\"id\":2}"
+    },
+    "contact": {
+      "17": "{\"name\":\"contact1 of user1\",\"friendId\":11,\"is_mutual\":false,\"ownerId\":1,\"id\":17}",
+      "18": "{\"name\":\"contact2 of user1\",\"friendId\":21,\"is_mutual\":false,\"ownerId\":1,\"id\":18}",
+      "19": "{\"name\":\"contact3 of user2\",\"friendId\":31,\"is_mutual\":false,\"ownerId\":2,\"id\":19}",
+      "20": "{\"name\":\"contact4 of user2\",\"friendId\":41,\"is_mutual\":false,\"ownerId\":2,\"id\":20}"
+    }
+  }
+}
