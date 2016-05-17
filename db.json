@@ -25,7 +25,7 @@
       "2": "{\"password\":\"$2a$10$DCD4ZBesyqnJj6N9NMBnrOEkymexi4pTaKLdgS1pY/cyOIWm7bK7.\",\"email\":\"user2@test.com\",\"id\":2}"
     },
     "contact": {
-      "17": "{\"name\":\"contact1 of user1\",\"friendId\":11,\"is_mutual\":false,\"ownerId\":1,\"id\":17}",
+      "17": "{\"name\":\"contact1 of user1\",\"friendId\":11,\"is_mutual\":true,\"ownerId\":1,\"id\":17}",
       "18": "{\"name\":\"contact2 of user1\",\"friendId\":21,\"is_mutual\":false,\"ownerId\":1,\"id\":18}",
       "19": "{\"name\":\"contact3 of user2\",\"friendId\":31,\"is_mutual\":false,\"ownerId\":2,\"id\":19}",
       "20": "{\"name\":\"contact4 of user2\",\"friendId\":41,\"is_mutual\":false,\"ownerId\":2,\"id\":20}"
