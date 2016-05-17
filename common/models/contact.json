@@ -27,5 +27,5 @@
     }
   ],
   "methods": {},
-  "hidden": ["friendId", "is_mutual" ]
+  "protected": ["friendId", "is_mutual" ]
 }
