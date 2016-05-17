@@ -34,6 +34,7 @@ When API request with GET /users/{id}/contacts, all the contact properties are r
 **STR**
 
 1. Clone the respository and install npm modules
+
 2. Login with user1 (I created 2 users in boot script)
 ```
 POST /users/login
@@ -42,7 +43,9 @@ POST /users/login
   "password" : "asdfasdf"
 }
 ```
+
 3. Set access token
+
 4. Get contacts owned by user1@test.com
 ```
 GET /users/1/contacts
