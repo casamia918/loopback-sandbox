@@ -6,6 +6,7 @@ A repository for reproducing [LoopBack community issues][wiki-issues].
 
 ## Bug report
 ### 1 Protected property is not working
+<https://github.com/strongloop/loopback/issues/2263>
 
 **Model definition**
 
